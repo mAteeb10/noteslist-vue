@@ -27,3 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
+"Learned how can I use VueJs app with firebase service Firestore Database by following the steps in Leela Web Dev Channel and repository"
